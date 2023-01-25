@@ -29,7 +29,7 @@
 
 # API Root Endpoint
 
-* Hospital module
+## Hospital module
 
 * Add hospital details (POST Request)
 
