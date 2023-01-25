@@ -31,12 +31,27 @@
 
 ### Hospital module
 
-get all hospital details
+Add hospital details (POST Request)
 
 `http://localhost:8888/hospital`
 
-Get all hospital details by hospital id
+Get all hospital details (Get Request)
 
-`http://localhost:8888/hospital/{hospitalid}`
+`http://localhost:8888/hospital`
 
+Get all hospital details by hospital id (Get Request)
+
+`http://localhost:8888/hospital/{hospitalId}`
+
+### Psychiatrist module
+
+Add Psychiatrist details (POST Request)
+
+`http://localhost:8888/psychiatrist/{hospitalId}`
+
+### Patient module
+
+Add patients details (POST REQUEST)
+
+`http://localhost:8888/psychiatrist/{psychiatristId}`
 
