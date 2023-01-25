@@ -1,5 +1,5 @@
 # Rest API
-* We have a platform where psychiatrists can register their patients through a mobile/ web portal. Each psychiatrist belongs to a hospital. We have provided the hospital list on the last page
+* We have a platform where psychiatrists can register their patients through a mobile/ web portal. Each psychiatrist belongs to a hospital.
 
 ## Tech Stack
 
