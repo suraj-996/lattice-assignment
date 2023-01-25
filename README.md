@@ -18,11 +18,25 @@
 
 ```
 
-server.port=8888
+        server.port=8888
 
-spring.datasource.url=jdbc:mysql://localhost:3306/hospital
-spring.datasource.driver-class-name=com.mysql.cj.jdbc.Driver
-spring.datasource.username=root
-spring.datasource.password=root
+        spring.datasource.url=jdbc:mysql://localhost:3306/hospital
+        spring.datasource.driver-class-name=com.mysql.cj.jdbc.Driver
+        spring.datasource.username=root
+        spring.datasource.password=root
 
 ```
+
+## API Root Endpoint
+
+### Hospital module
+
+get all hospital details
+
+`http://localhost:8888/hospital`
+
+Get all hospital details by hospital id
+
+`http://localhost:8888/hospital/{hospitalid}`
+
+
