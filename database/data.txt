@@ -1,0 +1,625 @@
+All the data of hospital
+
+[
+    {
+        "id": 1,
+        "name": "Apollo Hospitals",
+        "psychiatrists": [
+            {
+                "id": 1,
+                "name": "Ratan Lal Gupta",
+                "patients": [
+                    {
+                        "id": 1,
+                        "name": "Emily Smith",
+                        "address": "234 Elm Street, Anytown USA 12345",
+                        "email": "emily@gmail.com",
+                        "phoneNumber": "1234567890",
+                        "password": "Emily123",
+                        "patientPhoto": "https://images.pexels.com/photos/14234636/pexels-photo-14234636.jpeg?auto=compress&cs=tinysrgb&w=300&lazy=load"
+                    },
+                    {
+                        "id": 11,
+                        "name": "Benjamin Green",
+                        "address": "303132 Dogwood Lane, Anytown USA 12345",
+                        "email": "Benjamin@gmail.com",
+                        "phoneNumber": "68126546526",
+                        "password": "Benjamin123",
+                        "patientPhoto": "https://images.pexels.com/photos/15198287/pexels-photo-15198287.jpeg?auto=compress&cs=tinysrgb&w=400&lazy=load"
+                    }
+                ]
+            },
+            {
+                "id": 2,
+                "name": "Albert Sebastian",
+                "patients": [
+                    {
+                        "id": 2,
+                        "name": "Michael Johnson",
+                        "address": "5678 Oak Road, Anytown USA 12345",
+                        "email": "michael@gmail.com",
+                        "phoneNumber": "5847691230",
+                        "password": "Michael123",
+                        "patientPhoto": "https://images.pexels.com/photos/14234636/pexels-photo-14234636.jpeg?auto=compress&cs=tinysrgb&w=400&lazy=load"
+                    },
+                    {
+                        "id": 12,
+                        "name": "Benjamin Green",
+                        "address": "303132 Dogwood Lane, Anytown USA 12345",
+                        "email": "Benjamin@gmail.com",
+                        "phoneNumber": "68126546526",
+                        "password": "Benjamin123",
+                        "patientPhoto": "https://images.pexels.com/photos/15198287/pexels-photo-15198287.jpeg?auto=compress&cs=tinysrgb&w=400&lazy=load"
+                    }
+                ]
+            },
+            {
+                "id": 3,
+                "name": "Ankush Chimnani",
+                "patients": [
+                    {
+                        "id": 3,
+                        "name": "Joshua Williams",
+                        "address": "91011 Pine Avenue, Anytown USA 12345",
+                        "email": "joshua@gmail.com",
+                        "phoneNumber": "7412691230",
+                        "password": "Joshua123",
+                        "patientPhoto": "https://images.pexels.com/photos/14881779/pexels-photo-14881779.jpeg?auto=compress&cs=tinysrgb&w=400&lazy=load"
+                    },
+                    {
+                        "id": 13,
+                        "name": "Benjamin Green",
+                        "address": "303132 Dogwood Lane, Anytown USA 12345",
+                        "email": "Benjamin@gmail.com",
+                        "phoneNumber": "68126546526",
+                        "password": "Benjamin123",
+                        "patientPhoto": "https://images.pexels.com/photos/15198287/pexels-photo-15198287.jpeg?auto=compress&cs=tinysrgb&w=400&lazy=load"
+                    }
+                ]
+            },
+            {
+                "id": 4,
+                "name": "Prateek Shukla",
+                "patients": [
+                    {
+                        "id": 4,
+                        "name": "Andrew Jones",
+                        "address": "91011 Pine Avenue, Anytown USA 12345",
+                        "email": "andrew@gmail.com",
+                        "phoneNumber": "7412698526",
+                        "password": "Andrew123",
+                        "patientPhoto": "https://images.pexels.com/photos/11157991/pexels-photo-11157991.jpeg?auto=compress&cs=tinysrgb&w=400&lazy=load"
+                    },
+                    {
+                        "id": 16,
+                        "name": "Olivia Thompson",
+                        "address": "363738 Peach Road, Anytown USA 12345",
+                        "email": "kyle@gmail.com",
+                        "phoneNumber": "93126546526",
+                        "password": "Olivia123",
+                        "patientPhoto": "https://images.pexels.com/photos/13955179/pexels-photo-13955179.jpeg?auto=compress&cs=tinysrgb&w=400&lazy=load"
+                    }
+                ]
+            },
+            {
+                "id": 5,
+                "name": "Nrupul Dev",
+                "patients": [
+                    {
+                        "id": 5,
+                        "name": "Matthew Brown",
+                        "address": "151617 Maple Lane, Anytown USA 12345",
+                        "email": "matthew@gmail.com",
+                        "phoneNumber": "74126546526",
+                        "password": "Matthew123",
+                        "patientPhoto": "https://images.pexels.com/photos/13895332/pexels-photo-13895332.jpeg?auto=compress&cs=tinysrgb&w=400&lazy=load"
+                    },
+                    {
+                        "id": 17,
+                        "name": "Olivia Thompson",
+                        "address": "363738 Peach Road, Anytown USA 12345",
+                        "email": "kyle@gmail.com",
+                        "phoneNumber": "93126546526",
+                        "password": "Olivia123",
+                        "patientPhoto": "https://images.pexels.com/photos/13955179/pexels-photo-13955179.jpeg?auto=compress&cs=tinysrgb&w=400&lazy=load"
+                    },
+                    {
+                        "id": 40,
+                        "name": "Andrew Jones",
+                        "address": "91011 Pine Avenue, Anytown USA 12345",
+                        "email": "andrew@gmail.com",
+                        "phoneNumber": "7412698526",
+                        "password": "Andrew123",
+                        "patientPhoto": "https://images.pexels.com/photos/11157991/pexels-photo-11157991.jpeg?auto=compress&cs=tinysrgb&w=400&lazy=load"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": 2,
+        "name": "Jawaharlal Nehru Medical College and Hospital",
+        "psychiatrists": [
+            {
+                "id": 6,
+                "name": "Aman Vats",
+                "patients": [
+                    {
+                        "id": 6,
+                        "name": "Ethan Garcia",
+                        "address": "1819202 Cedar Street, Anytown USA 12345",
+                        "email": "ethan@gmail.com",
+                        "phoneNumber": "87126546526",
+                        "password": "Ethan123",
+                        "patientPhoto": "https://images.pexels.com/photos/2808581/pexels-photo-2808581.jpeg?auto=compress&cs=tinysrgb&w=400&lazy=load"
+                    },
+                    {
+                        "id": 18,
+                        "name": "Olivia Thompson",
+                        "address": "363738 Peach Road, Anytown USA 12345",
+                        "email": "kyle@gmail.com",
+                        "phoneNumber": "93126546526",
+                        "password": "Olivia123",
+                        "patientPhoto": "https://images.pexels.com/photos/13955179/pexels-photo-13955179.jpeg?auto=compress&cs=tinysrgb&w=400&lazy=load"
+                    },
+                    {
+                        "id": 41,
+                        "name": "Andrew Jones",
+                        "address": "91011 Pine Avenue, Anytown USA 12345",
+                        "email": "andrew@gmail.com",
+                        "phoneNumber": "7412698526",
+                        "password": "Andrew123",
+                        "patientPhoto": "https://images.pexels.com/photos/11157991/pexels-photo-11157991.jpeg?auto=compress&cs=tinysrgb&w=400&lazy=load"
+                    }
+                ]
+            },
+            {
+                "id": 7,
+                "name": "Kunal Chandel",
+                "patients": [
+                    {
+                        "id": 7,
+                        "name": "Nicholas Rodriguez",
+                        "address": "212223 Willow Road, Anytown USA 12345",
+                        "email": "nicholas@gmail.com",
+                        "phoneNumber": "78126546526",
+                        "password": "Nicholas123",
+                        "patientPhoto": "https://images.pexels.com/photos/6739700/pexels-photo-6739700.jpeg?auto=compress&cs=tinysrgb&w=400&lazy=load"
+                    },
+                    {
+                        "id": 19,
+                        "name": "Olivia Thompson",
+                        "address": "363738 Peach Road, Anytown USA 12345",
+                        "email": "kyle@gmail.com",
+                        "phoneNumber": "93126546526",
+                        "password": "Olivia123",
+                        "patientPhoto": "https://images.pexels.com/photos/13955179/pexels-photo-13955179.jpeg?auto=compress&cs=tinysrgb&w=400&lazy=load"
+                    }
+                ]
+            },
+            {
+                "id": 8,
+                "name": "VenuGopal Panchmurthi",
+                "patients": [
+                    {
+                        "id": 8,
+                        "name": "Jacob Martinez",
+                        "address": "212223 Willow Road, Anytown USA 12345",
+                        "email": "jacob@gmail.com",
+                        "phoneNumber": "35126546526",
+                        "password": "Jacob123",
+                        "patientPhoto": "https://images.pexels.com/photos/2412601/pexels-photo-2412601.jpeg?auto=compress&cs=tinysrgb&w=400&lazy=load"
+                    }
+                ]
+            },
+            {
+                "id": 9,
+                "name": "Pulkit Tyagi",
+                "patients": [
+                    {
+                        "id": 9,
+                        "name": "Ryan Scott",
+                        "address": "272829 Sequoia Boulevard, Anytown USA 12345",
+                        "email": "rayan@gmail.com",
+                        "phoneNumber": "65126546526",
+                        "password": "Ryana123",
+                        "patientPhoto": "https://images.pexels.com/photos/14558489/pexels-photo-14558489.jpeg?auto=compress&cs=tinysrgb&w=400&lazy=load"
+                    },
+                    {
+                        "id": 42,
+                        "name": "Andrew Jones",
+                        "address": "91011 Pine Avenue, Anytown USA 12345",
+                        "email": "andrew@gmail.com",
+                        "phoneNumber": "7412698526",
+                        "password": "Andrew123",
+                        "patientPhoto": "https://images.pexels.com/photos/11157991/pexels-photo-11157991.jpeg?auto=compress&cs=tinysrgb&w=400&lazy=load"
+                    }
+                ]
+            },
+            {
+                "id": 10,
+                "name": "Varun Bhat",
+                "patients": [
+                    {
+                        "id": 10,
+                        "name": "Benjamin Green",
+                        "address": "303132 Dogwood Lane, Anytown USA 12345",
+                        "email": "Benjamin@gmail.com",
+                        "phoneNumber": "68126546526",
+                        "password": "Benjamin123",
+                        "patientPhoto": "https://images.pexels.com/photos/15198287/pexels-photo-15198287.jpeg?auto=compress&cs=tinysrgb&w=400&lazy=load"
+                    },
+                    {
+                        "id": 28,
+                        "name": "Ryan Turner",
+                        "address": "606154 Gooseberry Lane, Anytown USA 12345",
+                        "email": "Ryan@gmail.com",
+                        "phoneNumber": "82126546526",
+                        "password": "Ryande123",
+                        "patientPhoto": "https://images.pexels.com/photos/13955179/pexels-photo-13955179.jpeg?auto=compress&cs=tinysrgb&w=400&lazy=load"
+                    },
+                    {
+                        "id": 43,
+                        "name": "Jacob Martinez",
+                        "address": "212223 Willow Road, Anytown USA 12345",
+                        "email": "jacob@gmail.com",
+                        "phoneNumber": "35126546526",
+                        "password": "Jacob123",
+                        "patientPhoto": "https://images.pexels.com/photos/2412601/pexels-photo-2412601.jpeg?auto=compress&cs=tinysrgb&w=400&lazy=load"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": 3,
+        "name": "Indira Gandhi Institute of Medical Sciences (IGIMS)",
+        "psychiatrists": [
+            {
+                "id": 11,
+                "name": "Yogesh Bhat",
+                "patients": [
+                    {
+                        "id": 14,
+                        "name": "Kyle Martinez",
+                        "address": "333434 Cherry Street, Anytown USA 12345",
+                        "email": "kyle@gmail.com",
+                        "phoneNumber": "98126546526",
+                        "password": "Kyleae123",
+                        "patientPhoto": "https://images.pexels.com/photos/6845807/pexels-photo-6845807.jpeg?auto=compress&cs=tinysrgb&w=400&lazy=load"
+                    },
+                    {
+                        "id": 29,
+                        "name": "Ryan Turner",
+                        "address": "606154 Gooseberry Lane, Anytown USA 12345",
+                        "email": "Ryan@gmail.com",
+                        "phoneNumber": "82126546526",
+                        "password": "Ryande123",
+                        "patientPhoto": "https://images.pexels.com/photos/13955179/pexels-photo-13955179.jpeg?auto=compress&cs=tinysrgb&w=400&lazy=load"
+                    },
+                    {
+                        "id": 44,
+                        "name": "Jacob Martinez",
+                        "address": "212223 Willow Road, Anytown USA 12345",
+                        "email": "jacob@gmail.com",
+                        "phoneNumber": "35126546526",
+                        "password": "Jacob123",
+                        "patientPhoto": "https://images.pexels.com/photos/2412601/pexels-photo-2412601.jpeg?auto=compress&cs=tinysrgb&w=400&lazy=load"
+                    }
+                ]
+            },
+            {
+                "id": 12,
+                "name": "Mahesh Gupta",
+                "patients": [
+                    {
+                        "id": 15,
+                        "name": "Olivia Thompson",
+                        "address": "363738 Peach Road, Anytown USA 12345",
+                        "email": "kyle@gmail.com",
+                        "phoneNumber": "93126546526",
+                        "password": "Olivia123",
+                        "patientPhoto": "https://images.pexels.com/photos/13955179/pexels-photo-13955179.jpeg?auto=compress&cs=tinysrgb&w=400&lazy=load"
+                    },
+                    {
+                        "id": 30,
+                        "name": "Ryan Turner",
+                        "address": "606154 Gooseberry Lane, Anytown USA 12345",
+                        "email": "Ryan@gmail.com",
+                        "phoneNumber": "82126546526",
+                        "password": "Ryande123",
+                        "patientPhoto": "https://images.pexels.com/photos/13955179/pexels-photo-13955179.jpeg?auto=compress&cs=tinysrgb&w=400&lazy=load"
+                    },
+                    {
+                        "id": 45,
+                        "name": "Jacob Martinez",
+                        "address": "212223 Willow Road, Anytown USA 12345",
+                        "email": "jacob@gmail.com",
+                        "phoneNumber": "35126546526",
+                        "password": "Jacob123",
+                        "patientPhoto": "https://images.pexels.com/photos/2412601/pexels-photo-2412601.jpeg?auto=compress&cs=tinysrgb&w=400&lazy=load"
+                    }
+                ]
+            },
+            {
+                "id": 13,
+                "name": "Supriya Paul",
+                "patients": [
+                    {
+                        "id": 20,
+                        "name": "Olivia Thompson",
+                        "address": "363738 Peach Road, Anytown USA 12345",
+                        "email": "kyle@gmail.com",
+                        "phoneNumber": "93126546526",
+                        "password": "Olivia123",
+                        "patientPhoto": "https://images.pexels.com/photos/13955179/pexels-photo-13955179.jpeg?auto=compress&cs=tinysrgb&w=400&lazy=load"
+                    },
+                    {
+                        "id": 31,
+                        "name": "Ryan Turner",
+                        "address": "606154 Gooseberry Lane, Anytown USA 12345",
+                        "email": "Ryan@gmail.com",
+                        "phoneNumber": "82126546526",
+                        "password": "Ryande123",
+                        "patientPhoto": "https://images.pexels.com/photos/13955179/pexels-photo-13955179.jpeg?auto=compress&cs=tinysrgb&w=400&lazy=load"
+                    },
+                    {
+                        "id": 46,
+                        "name": "Jacob Martinez",
+                        "address": "212223 Willow Road, Anytown USA 12345",
+                        "email": "jacob@gmail.com",
+                        "phoneNumber": "35126546526",
+                        "password": "Jacob123",
+                        "patientPhoto": "https://images.pexels.com/photos/2412601/pexels-photo-2412601.jpeg?auto=compress&cs=tinysrgb&w=400&lazy=load"
+                    }
+                ]
+            },
+            {
+                "id": 14,
+                "name": "Manas Gupta",
+                "patients": [
+                    {
+                        "id": 21,
+                        "name": "Joseph Baker",
+                        "address": "424343 Grape Boulevard, Anytown USA 12345",
+                        "email": "Joseph@gmail.com",
+                        "phoneNumber": "93126546526",
+                        "password": "Joseph123",
+                        "patientPhoto": "https://images.pexels.com/photos/13955179/pexels-photo-13955179.jpeg?auto=compress&cs=tinysrgb&w=400&lazy=load"
+                    },
+                    {
+                        "id": 32,
+                        "name": "Ryan Turner",
+                        "address": "606154 Gooseberry Lane, Anytown USA 12345",
+                        "email": "Ryan@gmail.com",
+                        "phoneNumber": "82126546526",
+                        "password": "Ryande123",
+                        "patientPhoto": "https://images.pexels.com/photos/13955179/pexels-photo-13955179.jpeg?auto=compress&cs=tinysrgb&w=400&lazy=load"
+                    },
+                    {
+                        "id": 47,
+                        "name": "Jacob Martinez",
+                        "address": "212223 Willow Road, Anytown USA 12345",
+                        "email": "jacob@gmail.com",
+                        "phoneNumber": "35126546526",
+                        "password": "Jacob123",
+                        "patientPhoto": "https://images.pexels.com/photos/2412601/pexels-photo-2412601.jpeg?auto=compress&cs=tinysrgb&w=400&lazy=load"
+                    }
+                ]
+            },
+            {
+                "id": 15,
+                "name": "Shashank Shekhar",
+                "patients": [
+                    {
+                        "id": 22,
+                        "name": "Anthony Nelson",
+                        "address": "454645 Strawberry Lane, Anytown USA 12345",
+                        "email": "Anthony@gmail.com",
+                        "phoneNumber": "53126546526",
+                        "password": "Anthony123",
+                        "patientPhoto": "https://images.pexels.com/photos/13955179/pexels-photo-13955179.jpeg?auto=compress&cs=tinysrgb&w=400&lazy=load"
+                    },
+                    {
+                        "id": 33,
+                        "name": "Ryan Turner",
+                        "address": "606154 Gooseberry Lane, Anytown USA 12345",
+                        "email": "Ryan@gmail.com",
+                        "phoneNumber": "82126546526",
+                        "password": "Ryande123",
+                        "patientPhoto": "https://images.pexels.com/photos/13955179/pexels-photo-13955179.jpeg?auto=compress&cs=tinysrgb&w=400&lazy=load"
+                    },
+                    {
+                        "id": 48,
+                        "name": "Jacob Martinez",
+                        "address": "212223 Willow Road, Anytown USA 12345",
+                        "email": "jacob@gmail.com",
+                        "phoneNumber": "35126546526",
+                        "password": "Jacob123",
+                        "patientPhoto": "https://images.pexels.com/photos/2412601/pexels-photo-2412601.jpeg?auto=compress&cs=tinysrgb&w=400&lazy=load"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": 4,
+        "name": "AIIMS - All India Institute Of Medical Science",
+        "psychiatrists": [
+            {
+                "id": 16,
+                "name": "Mehjabin Sultana",
+                "patients": [
+                    {
+                        "id": 23,
+                        "name": "Brandon Carter",
+                        "address": "484946 Blueberry Street, Anytown USA 12345",
+                        "email": "Anthony@gmail.com",
+                        "phoneNumber": "53126546526",
+                        "password": "Anthony123",
+                        "patientPhoto": "https://images.pexels.com/photos/13955179/pexels-photo-13955179.jpeg?auto=compress&cs=tinysrgb&w=400&lazy=load"
+                    },
+                    {
+                        "id": 34,
+                        "name": "Ryan Turner",
+                        "address": "606154 Gooseberry Lane, Anytown USA 12345",
+                        "email": "Ryan@gmail.com",
+                        "phoneNumber": "82126546526",
+                        "password": "Ryande123",
+                        "patientPhoto": "https://images.pexels.com/photos/13955179/pexels-photo-13955179.jpeg?auto=compress&cs=tinysrgb&w=400&lazy=load"
+                    },
+                    {
+                        "id": 49,
+                        "name": "Jacob Martinez",
+                        "address": "212223 Willow Road, Anytown USA 12345",
+                        "email": "jacob@gmail.com",
+                        "phoneNumber": "35126546526",
+                        "password": "Jacob123",
+                        "patientPhoto": "https://images.pexels.com/photos/2412601/pexels-photo-2412601.jpeg?auto=compress&cs=tinysrgb&w=400&lazy=load"
+                    }
+                ]
+            },
+            {
+                "id": 17,
+                "name": "Gargi Sehrawat",
+                "patients": [
+                    {
+                        "id": 24,
+                        "name": "Christian Perez",
+                        "address": "515248 Raspberry Road, Anytown USA 12345",
+                        "email": "Christian@gmail.com",
+                        "phoneNumber": "53126546526",
+                        "password": "Christian123",
+                        "patientPhoto": "https://images.pexels.com/photos/13955179/pexels-photo-13955179.jpeg?auto=compress&cs=tinysrgb&w=400&lazy=load"
+                    },
+                    {
+                        "id": 35,
+                        "name": "Ryan Turner",
+                        "address": "606154 Gooseberry Lane, Anytown USA 12345",
+                        "email": "Ryan@gmail.com",
+                        "phoneNumber": "82126546526",
+                        "password": "Ryande123",
+                        "patientPhoto": "https://images.pexels.com/photos/13955179/pexels-photo-13955179.jpeg?auto=compress&cs=tinysrgb&w=400&lazy=load"
+                    },
+                    {
+                        "id": 50,
+                        "name": "Jacob Martinez",
+                        "address": "212223 Willow Road, Anytown USA 12345",
+                        "email": "jacob@gmail.com",
+                        "phoneNumber": "35126546526",
+                        "password": "Jacob123",
+                        "patientPhoto": "https://images.pexels.com/photos/2412601/pexels-photo-2412601.jpeg?auto=compress&cs=tinysrgb&w=400&lazy=load"
+                    }
+                ]
+            },
+            {
+                "id": 18,
+                "name": "Shishir Padhan",
+                "patients": [
+                    {
+                        "id": 25,
+                        "name": "Julia Evans",
+                        "address": "545550 Blackberry Avenue, Anytown USA 12345",
+                        "email": "Julia@gmail.com",
+                        "phoneNumber": "82126546526",
+                        "password": "Julia123",
+                        "patientPhoto": "https://images.pexels.com/photos/13955179/pexels-photo-13955179.jpeg?auto=compress&cs=tinysrgb&w=400&lazy=load"
+                    },
+                    {
+                        "id": 36,
+                        "name": "Ryan Turner",
+                        "address": "606154 Gooseberry Lane, Anytown USA 12345",
+                        "email": "Ryan@gmail.com",
+                        "phoneNumber": "82126546526",
+                        "password": "Ryande123",
+                        "patientPhoto": "https://images.pexels.com/photos/13955179/pexels-photo-13955179.jpeg?auto=compress&cs=tinysrgb&w=400&lazy=load"
+                    },
+                    {
+                        "id": 51,
+                        "name": "Jacob Martinez",
+                        "address": "212223 Willow Road, Anytown USA 12345",
+                        "email": "jacob@gmail.com",
+                        "phoneNumber": "35126546526",
+                        "password": "Jacob123",
+                        "patientPhoto": "https://images.pexels.com/photos/2412601/pexels-photo-2412601.jpeg?auto=compress&cs=tinysrgb&w=400&lazy=load"
+                    }
+                ]
+            },
+            {
+                "id": 19,
+                "name": "Mohit Gupta",
+                "patients": [
+                    {
+                        "id": 26,
+                        "name": "Kevin Edwards",
+                        "address": "575752 Cranberry Boulevard, Anytown USA 12345",
+                        "email": "Kevin@gmail.com",
+                        "phoneNumber": "13126546526",
+                        "password": "Kevin123",
+                        "patientPhoto": "https://images.pexels.com/photos/13955179/pexels-photo-13955179.jpeg?auto=compress&cs=tinysrgb&w=400&lazy=load"
+                    },
+                    {
+                        "id": 37,
+                        "name": "Ryan Turner",
+                        "address": "606154 Gooseberry Lane, Anytown USA 12345",
+                        "email": "Ryan@gmail.com",
+                        "phoneNumber": "82126546526",
+                        "password": "Ryande123",
+                        "patientPhoto": "https://images.pexels.com/photos/13955179/pexels-photo-13955179.jpeg?auto=compress&cs=tinysrgb&w=400&lazy=load"
+                    },
+                    {
+                        "id": 52,
+                        "name": "Jacob Martinez",
+                        "address": "212223 Willow Road, Anytown USA 12345",
+                        "email": "jacob@gmail.com",
+                        "phoneNumber": "35126546526",
+                        "password": "Jacob123",
+                        "patientPhoto": "https://images.pexels.com/photos/2412601/pexels-photo-2412601.jpeg?auto=compress&cs=tinysrgb&w=400&lazy=load"
+                    }
+                ]
+            },
+            {
+                "id": 20,
+                "name": "Rishav Mudgal",
+                "patients": [
+                    {
+                        "id": 27,
+                        "name": "Ryan Turner",
+                        "address": "606154 Gooseberry Lane, Anytown USA 12345",
+                        "email": "Ryan@gmail.com",
+                        "phoneNumber": "82126546526",
+                        "password": "Ryande123",
+                        "patientPhoto": "https://images.pexels.com/photos/13955179/pexels-photo-13955179.jpeg?auto=compress&cs=tinysrgb&w=400&lazy=load"
+                    },
+                    {
+                        "id": 38,
+                        "name": "Joshua Williams",
+                        "address": "91011 Pine Avenue, Anytown USA 12345",
+                        "email": "joshua@gmail.com",
+                        "phoneNumber": "7412691230",
+                        "password": "Joshua123",
+                        "patientPhoto": "https://images.pexels.com/photos/14881779/pexels-photo-14881779.jpeg?auto=compress&cs=tinysrgb&w=400&lazy=load"
+                    },
+                    {
+                        "id": 39,
+                        "name": "Andrew Jones",
+                        "address": "91011 Pine Avenue, Anytown USA 12345",
+                        "email": "andrew@gmail.com",
+                        "phoneNumber": "7412698526",
+                        "password": "Andrew123",
+                        "patientPhoto": "https://images.pexels.com/photos/11157991/pexels-photo-11157991.jpeg?auto=compress&cs=tinysrgb&w=400&lazy=load"
+                    },
+                    {
+                        "id": 53,
+                        "name": "Jacob Martinez",
+                        "address": "212223 Willow Road, Anytown USA 12345",
+                        "email": "jacob@gmail.com",
+                        "phoneNumber": "35126546526",
+                        "password": "Jacob123",
+                        "patientPhoto": "https://images.pexels.com/photos/2412601/pexels-photo-2412601.jpeg?auto=compress&cs=tinysrgb&w=400&lazy=load"
+                    }
+                ]
+            }
+        ]
+    }
+]
