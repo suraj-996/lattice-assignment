@@ -27,31 +27,31 @@
 
 ```
 
-## API Root Endpoint
+# API Root Endpoint
 
-### Hospital module
+## Hospital module
 
-Add hospital details (POST Request)
-
-`http://localhost:8888/hospital`
-
-Get all hospital details (Get Request)
+### Add hospital details (POST Request)
 
 `http://localhost:8888/hospital`
 
-Get all hospital details by hospital id (Get Request)
+### Get all hospital details (Get Request)
+
+`http://localhost:8888/hospital`
+
+### Get all hospital details by hospital id (Get Request)
 
 `http://localhost:8888/hospital/{hospitalId}`
 
-### Psychiatrist module
+## Psychiatrist module
 
-Add Psychiatrist details (POST Request)
+### Add Psychiatrist details (POST Request)
 
 `http://localhost:8888/psychiatrist/{hospitalId}`
 
-### Patient module
+## Patient module
 
-Add patients details (POST REQUEST)
+### Add patients details (POST REQUEST)
 
 `http://localhost:8888/psychiatrist/{psychiatristId}`
 
